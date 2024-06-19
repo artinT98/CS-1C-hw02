@@ -1,0 +1,51 @@
+12345
+Stowe
+Madison
+madisonstowe@email.com
+2024561111
+1600 Pennsylvania Ave
+Washington
+DC
+20500
+Computer Science
+NA
+4.000000
+
+12346
+Smith
+John
+johnsmith@email.com
+2025551234
+123 Main St
+Springfield
+IL
+62701
+Mathematics
+Sophomore
+3.500000
+
+12347
+Doe
+Jane
+janedoe@email.com
+5551234567
+456 Elm St
+New York
+NY
+10001
+Biology
+Junior
+3.700000
+
+12348
+Brown
+Charlie
+charliebrown@email.com
+4449876543
+789 Oak St
+Los Angeles
+CA
+90001
+Chemistry
+Senior
+3.800000
